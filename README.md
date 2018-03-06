@@ -12,12 +12,12 @@ To install the most recent stable version, navigate to the [stable directory](/b
 
 |Operating System|Architecture|Link|
 |---|---|---|
-|Windows|64-bit|[Download](/bin/stable/windows/amd64/tag.exe)|
-|Windows|32-bit|[Download](/bin/stable/windows/386/tag.exe)|
-|Linux|64-bit|[Download](/bin/stable/linux/amd64/tag)|
-|Linux|32-bit|[Download](/bin/stable/linux/386/tag)|
-|macOS|64-bit|[Download](/bin/stable/darwin/amd64/tag)|
-|macOS|32-bit|[Download](/bin/stable/darwin/386/tag)|
+|Windows|64-bit|[Download](/bin/stable/windows/amd64/tag.zip?raw=true)|
+|Windows|32-bit|[Download](/bin/stable/windows/386/tag.zip?raw=true)|
+|Linux|64-bit|[Download](/bin/stable/linux/amd64/tag.zip?raw=true)|
+|Linux|32-bit|[Download](/bin/stable/linux/386/tag.zip?raw=true)|
+|macOS|64-bit|[Download](/bin/stable/darwin/amd64/tag.zip?raw=true)|
+|macOS|32-bit|[Download](/bin/stable/darwin/386/tag.zip?raw=true)|
 
 If you're looking for a specific version, all historical versions are located [here](/bin).
 
