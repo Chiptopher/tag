@@ -27,6 +27,7 @@ const output = "Tag is a command line tool that makes keeping track of files and
 	"purposes easier. It has the follow commands available:\n\n" +
 	"  init <PATH>                    Path to the root of tags.\n" +
 	"  file <FILE NAME> <TAG NAME>    Add TAG NAME to the FILE NAME.\n"+
+	"  list <FILE NAME>               List all tags associated with FILE NAME.\n"+
 	"  files <TAG NAME>               List files with the TAG NAME associated with it.\n"+
 	"  remove <FILE NAME> <TAG NAME>  Remove the TAG NAME from FILE NAME.\n"
 
