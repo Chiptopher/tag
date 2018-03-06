@@ -1,5 +1,7 @@
 # tag
 
+[![GoDoc](https://godoc.org/github.com/gohugoio/hugo?status.svg)](https://godoc.org/github.com/Chiptopher/tag)
+
 ### Overview
 **tag** is a command line tool written in intended for file tagging. With **tag** you can keep track of all the tags your files have, the tags associated with a file, and much more. Since it's built of [Go](https://golang.org), you can install a binary for your machine free of dependencies.
 
