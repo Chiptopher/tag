@@ -26,14 +26,16 @@ package data
 import (
 	"os"
 	"path/filepath"
+	"fmt"
 )
 
 // CreateDataFolder creates an empty data folder at the given path. It returns
 // a boolean discerning if the folder was created, and any error encountered.
 func CreateDataFolder(filePath string) (bool, error) {
 	fullPath := filepath.Join(filePath, DataFolderName)
+	fmt.Println(fullPath)
 	if _, err := os.Stat(fullPath); os.IsNotExist(err) {
-		err = os.MkdirAll(fullPath, 0700)
+		err = os.MkdirAll(fullPath, 0777)
 		if err != nil {
 			return false, err
 		}
