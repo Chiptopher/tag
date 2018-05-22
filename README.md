@@ -23,7 +23,7 @@ To install the most recent stable version, navigate to the [stable directory](/b
 
 If you're looking for a specific version, all historical versions are located [here](/bin).
 
-##### Installing From Source {InstallingFromSource}
+##### Installing From Source
 If you have `go` all you need to do is get the source as you would any other go module.
 ```
 go get github.com/Chiptopher/tag.git
